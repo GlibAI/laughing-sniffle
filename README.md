@@ -59,11 +59,9 @@ The following are optional tasks that will be evaluated separately:
 1. Write an API server that accepts a json file and an image file and returns all the extracted data.
 
 ## Submission
-1. Fork this repository to your own Github account.
-2. Clone the forked repository to your local machine.
-3. You should modify the `src/extractors.py` file. The functions have already been defined for you.
-4. Run tests using `pytest` to check your implementation.
-5. Push your changes to your forked repository.
-6. Submit the link to your forked repository via email.
+1. Clone this repository to your local machine.
+2. You should modify the `src/extractors.py` file. The functions have already been defined for you.
+3. Run tests using `pytest` to check your implementation.
+4. Create a tarball of your code and share it via email.
 
 Note: If you have used any external libraries, please include them in the `requirements.txt` file.
